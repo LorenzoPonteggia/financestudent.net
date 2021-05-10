@@ -9,7 +9,7 @@
     let result = NaN;
     let formVals = [];
 
-    const baseURL = "https://api.financestudent.net/"
+    const baseURL = "https://api.financestudent.net/API/"
 
     let url = "";
 
