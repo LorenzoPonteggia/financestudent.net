@@ -267,6 +267,7 @@ a:active{
         grid-template-areas:
             "ads content ads";
         grid-template-columns: 1fr 65vw 1fr;
+	height: 70%;
     }
 
     .w-half {
