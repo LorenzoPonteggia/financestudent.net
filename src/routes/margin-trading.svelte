@@ -16,11 +16,8 @@
     <div>
         <div class="centerText">Margin Trading Calcualtors</div>
         <div class="box">  
-            <div class="btn-wrap w-half ">
+            <div class="btn-wrap w-full ">
                 <button class="btn" onclick="window.location.href='/margin-base'">Margin</button>
-            </div>
-            <div class="btn-wrap w-half ">
-                <button class="btn" onclick="window.location.href=''">Placeholder</button>
             </div>
 
             <div class="btn-wrap w-full">
