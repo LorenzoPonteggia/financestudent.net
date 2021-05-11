@@ -19,17 +19,6 @@
             <div class="btn-wrap w-half">
                 <button class="btn" onclick="window.location.href='/sharpe-ratio'">Sharpe Ratio</button>
             </div>
-            <div class="btn-wrap w-half">
-                <button class="btn" onclick="window.location.href='/'">Coming Soon</button>
-            </div>
- 
-            <div class="btn-wrap w-full">
-                <button class="btn" onclick="window.location.href='/'">Coming Soon</button>
-            </div>
- 
-            <div class="btn-wrap w-full">
-                <button class="btn" onclick="window.location.href='/'">Coming Soon</button>
-            </div>
         </div>
     </div>
 </div>
