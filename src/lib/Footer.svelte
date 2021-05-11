@@ -81,38 +81,34 @@
 <div class="footer">
         <div class="footer_section">
             <div class="footer_title">Bonds</div>
-            <a href="/#">Coupon</a> <br>
-            <a href="/#">Coupon Rate</a> <br>
-            <a href="/#">Current Yield</a> <br>
-            <a href="/#">Yield to Maturity</a> <br>
-            <a href="/#">Bond Pricing</a> <br>
-            <a href="/#">Bond First Payment</a> <br>
+            <a href="/coupon">Coupon</a> <br>
+            <a href="/coupon-rate">Coupon Rate</a> <br>
+            <a href="/current-yield">Current Yield</a> <br>
+            <a href="/yield-to-maturity">Yield to Maturity</a> <br>
+            <a href="/bond-pricing">Bond Pricing</a> <br>
+            <a href="/bond-value-first-payment">Bond First Payment</a> <br>
         </div>
 
         <div class="footer_section">
             <div class="footer_title">Stocks</div>
-            <a href="/#">Earnings per Share</a> <br>
-            <a href="/#">P/E Ratio</a> <br>
-            <a href="/#">Dividend Yield</a> <br>
-            <a href="/#">Dividend Payout ratio</a> <br>
-            <a href="/#">Sharpe Ratio</a> <br>
-            <a href="/#">Holding Period Return</a> <br>
+            <a href="/earnings-per-share">Earnings per Share</a> <br>
+            <a href="/pe-ratio">P/E Ratio</a> <br>
+            <a href="/divident-yield">Dividend Yield</a> <br>
+            <a href="/dividend-payout-ratio">Dividend Payout ratio</a> <br>
+            <a href="/sharpe-ratio">Sharpe Ratio</a> <br>
+            <a href="/holding-period-return">Holding Period Return</a> <br>
         </div>
 
         <div class="footer_section">
             <div class="footer_title">Margin Trading</div>
-            <a href="/#">Margin</a> <br>
-            <a href="/#">Coming Soon</a> <br>
-            <a href="/#">Margin Call Price</a> <br>
-            <a href="/#">Short Margin Call Price</a> <br>
+            <a href="/margin-base">Margin</a> <br>
+            <a href="/margin-call-price">Margin Call Price</a> <br>
+            <a href="/margin-call-price-short">Short Margin Call Price</a> <br>
         </div>
 
         <div class="footer_section">
             <div class="footer_title">Portfolio Analysis</div>
             <a href="/#">Sharpe Ratio</a> <br>
-            <a href="/#">Standard Deviation</a> <br>
-            <a href="/#">Coming Soon</a> <br>
-            <a href="/#">AVerage Portfolio Return</a> <br>
         </div>
         <div class="linkedIN">
             <div class="LI-profile-badge" style="font-size: 1vw"  data-version="v1" data-size="small" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="lorenzo-ponteggia-a7021a1a0"><a class="LI-simple-link" href='https://uk.linkedin.com/in/lorenzo-ponteggia-a7021a1a0?trk=profile-badge'>Lorenzo Ponteggia</a></div>
