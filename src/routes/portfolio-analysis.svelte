@@ -16,7 +16,7 @@
     <div>
         <div class="centerText">Portfolio Analysis Calcualtors</div>
         <div class="box">  
-            <div class="btn-wrap w-half">
+            <div class="btn-wrap w-full">
                 <button class="btn" onclick="window.location.href='/sharpe-ratio'">Sharpe Ratio</button>
             </div>
         </div>
