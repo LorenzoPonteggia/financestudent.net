@@ -111,7 +111,7 @@
             <a href="/#">Sharpe Ratio</a> <br>
         </div>
         <div class="linkedIN">
-            <di <a href='https://uk.linkedin.com/in/lorenzo-ponteggia-a7021a1a0?trk=profile-badge'>Lorenzo Ponteggia</a></div>
+            <a href='https://uk.linkedin.com/in/lorenzo-ponteggia-a7021a1a0?trk=profile-badge'>Lorenzo Ponteggia</a>
         </div>
     </div>
 </div>
