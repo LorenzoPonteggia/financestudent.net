@@ -5,6 +5,7 @@
 </script>
 
 <svelte:head>
+	<link rel="stylesheet" type="text/css" href="/src/app.css" />
 	<!-- Global site tag (gtag.js) - Google Analytics -->
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-173178499-1"></script>
 	<script>
