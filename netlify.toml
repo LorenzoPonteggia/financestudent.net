@@ -2,3 +2,9 @@
   command = "npm run build"
   publish = "build/"
   functions = "functions/"
+
+[[redirects]]
+  from = "http://financestudent.net/*"
+  to = "https://financestudent.net/:splat"
+  status = 301
+  force = true
